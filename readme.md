@@ -1,3 +1,8 @@
+**THIS IS A FORK FROM https://github.com/Asabeneh/30-Days-Of-Python. THE .epub VERSION IS IN THE RELEASE VERSIONS.**
+
+--------------------------------------------------------------------------------------------------------------------
+
+
 # 🐍 30 Days Of Python
 
 |# Day | Topics                                                    |
